@@ -2,6 +2,7 @@ package bussines;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import data.Opinion;
 
 public class OpinionManager{
  
