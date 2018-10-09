@@ -1,4 +1,4 @@
 # Opinions
 Java
 
-"[^A->]" --> Negación (^)
+"[^A-Z]" --> Negación (^)
