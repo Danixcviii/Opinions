@@ -1,2 +1,4 @@
 # Opinions
 Java
+
+"[^A->]" --> Negación (^)
