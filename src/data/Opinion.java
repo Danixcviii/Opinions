@@ -12,8 +12,8 @@ public class Opinion{
   
   public Opinion(String line){
    Scanner sc=new Scanner(line);
-    author=sc.nextLine();
-    starts=Integer.parseInt(sc.nextLine());
+    author=sc.nextLine().trim();
+    starts=Integer.parseInt(sc.nextLine().trim());
     sc.close();
   }
  
