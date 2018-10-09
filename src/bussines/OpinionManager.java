@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import data.Opinion;
 import java.util.Scanner;
+import java.io.File;
 
 public class OpinionManager{
  
