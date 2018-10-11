@@ -1,4 +1,5 @@
 # Opinions
 Java
 
-"[^A-Z]" --> Negación (^)
+This Java aplication allows you knows how much \n
+an 
