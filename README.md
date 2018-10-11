@@ -11,4 +11,5 @@ Java
 <p>month(in text) day,year</p>
 <p>coment</p>
 <p>*********************</p>
+<p>the default separator for opinions is: &&</p>
 <p><b>By Dan</p>
