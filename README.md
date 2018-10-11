@@ -1,5 +1,5 @@
 # Opinions
 Java
 
-<b>This Java aplication allows you knows how much<\b>
-an 
+<p>In order to open a opinions file</p>
+<p>In order to open a opinions file</p>
